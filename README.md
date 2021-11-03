@@ -16,6 +16,7 @@ This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://www.javascript.com/)
+- [GraphQL](https://graphql.org/)
 
 ## :memo: License
 

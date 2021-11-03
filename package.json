@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "yarn nodemon src/index.js"
+  },
   "dependencies": {
     "apollo-server": "^3.4.0",
     "graphql": "^16.0.1"

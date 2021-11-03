@@ -15,7 +15,7 @@ This repository is a simple study about GraphQL fundamentals
 This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
-- [JavaScript](https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
 
 ## :memo: License
 
